@@ -6,6 +6,8 @@ public class HelloWorld {
 
 			String value = "Hello World";
 			System.out.println(value);
+			int a = 5;
+			System.out.println(a);
 	}
 
 }
